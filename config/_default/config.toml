@@ -130,11 +130,6 @@ enableRobotsTXT = true
     name = "CV"
     url = "/cv"
     weight = 20
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 30
 
 [languages]
   [languages.en]
