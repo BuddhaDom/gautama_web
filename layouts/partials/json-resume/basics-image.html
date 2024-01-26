@@ -1,0 +1,16 @@
+{{ if .image }}
+    <div class="jr-basics__image">
+    <img
+        {{ if not (hasPrefix "{{ .image }}" "https://") }}
+            {{ $aimage := resources.Get "pfp.png"}}
+            src="{{ $aimage.RelPermalink }}"
+        {{ else }}
+            src="{{ .image }}"
+        {{ end }}
+        alt="Picture{{ with .name }} of {{ . }}{{ end }}"
+        width="250"
+        height="250"
+    />
+    </div>
+    {{else}}
+{{ end }}

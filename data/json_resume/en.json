@@ -1,0 +1,182 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Domenico Crovetto",
+    "label": "Developer",
+    "image": ".",
+    "email": "domenicocrobon@gmail.com",
+    "url": "https://gautama.casa/",
+    "summary": "Software developer by trade and aptitude. I have a special interest for Video-game development, which I'm currently pursuing academically and professionally. Quick to pick up new technologies. Excited for any chance to do so too.",
+    "location": {
+      "city": "Gothenburg"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/BuddhaDom"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/domenico-crovetto/"
+      },
+      {
+        "network": "Discord",
+        "url": "https://discord.com/users/178285607456473089"
+      }
+    ],
+    "phone": "+46 723 119 211"
+  },
+  "work": [
+    {
+      "name": "SYPSOFT360",
+      "location": "Lima, Peru",
+      "description": "SAP and Monday partners",
+      "position": "Consultant Developer",
+      "url": "https://www.sypsoft360.com/",
+      "startDate": "2022-06-01",
+      "summary": "SAP Business One and Monday add-on development and integrations.",
+      "highlights": [
+        ".NET Framework",
+        "Sap Business One",
+        "SAP HANA",
+        "monday.com",
+        "REST APIs"
+      ],
+      "endDate": "2023-07-01"
+    },
+    {
+      "name": "Lateral",
+      "location": "Lima, Peru",
+      "description": "Imagination and creative skill",
+      "position": "Gamification",
+      "url": "https://lateral.org/en/home",
+      "startDate": "2018-12-01",
+      "summary": "Gamification practices, content development, tech and customer support.",
+      "highlights": [
+        "Gamification",
+        "Playtesting",
+        "Translation",
+        "Orator",
+        "Customer Service"
+      ],
+      "endDate": "2021-09-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Gothenburg",
+      "area": "Game Design & Technology",
+      "studyType": "Master's",
+      "startDate": "2023-08-01",
+      "courses": [
+        "Game Engine Architecture",
+        "Gameplay Design",
+        "Computer Graphics",
+        "Agile Development Processes",
+        "Game Development Project"
+      ],
+      "endDate": "2025-07-01",
+      "url": "https://www.gu.se/en/study-gothenburg/game-design-technology-masters-programme-n2gdt"
+    },
+    {
+      "institution": "Universidad de Lima",
+      "area": "Systems Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "2016-01-01",
+      "courses": [
+        "Video-game Programming",
+        "Object Oriented Programming",
+        "Machine Learning",
+        "Software Engineering",
+        "ERP Systems"
+      ],
+      "endDate": "2021-01-01",
+      "url": "https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Professional",
+      "keywords": ["C#", "C++", ".NET", "Python"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": ["Unity", "Godot", "Unreal Engine", "Game Design"],
+      "level": "Student, Enthusiast"
+    },
+    {
+      "name": "Orator",
+      "level": "Proficient",
+      "keywords": ["Presentations", "Public Speaking"]
+    },
+    {
+      "name": "Operative Systems",
+      "level": "Self-taught",
+      "keywords": ["Ubuntu", "Linux", "WSL", "Windows", "SSH"]
+    },
+    {
+      "name": "UI Design",
+      "level": "Self-taught",
+      "keywords": ["KLWP"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Gautama",
+      "type": "Home Server",
+      "description": "Service self-hosting",
+      "startDate": "2022-10-01",
+      "url": "https://gautama.casa/",
+      "roles": ["Developer", "Maintainer"],
+      "highlights": [
+        "I host my own services." ,
+        "HomelabOS implementation on Ubuntu.",
+        "https://homelabos.com/"
+      ],
+      "keywords": ["Hugo", "Golang", "Linux", "Ansible", "Docker"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Spooky Game Jam '23: Best Overall; Best Graphics",
+      "date": "2023-10-17",
+      "awarder": "IDX/GDT Game Jams",
+      "summary": "Part of the winning team in the 2023 IDX/GDT Spooky Game Jam —sponsored by Chalmers University of Technology and Gothemburg University— in the categories \"Graphics\" and \"Overall Winner\""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Juvenile Diabetes Association of Peru",
+      "startDate": "2018-03-01",
+      "position": "Orator",
+      "summary": "Volunteer in a Diabetes education program titled \"Los Número 1.\""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Videogame Development",
+      "keywords": ["Production of game systems"]
+    },
+    {
+      "name": "Software Development",
+      "keywords": ["Best practices", "Optimization"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Natural Language Processing"]
+    }
+  ]
+}
+
+
