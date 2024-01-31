@@ -1,0 +1,7 @@
+th:first-child,
+td:first-child{
+    width: 8em;
+    min-width: 8em;
+    max-width: 8em;
+    word-break: break-all;
+}

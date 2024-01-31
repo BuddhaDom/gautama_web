@@ -85,10 +85,10 @@
   --bg0: #eceff4;
   --bg0_h: #eceff4;
   --bg0_s: #eceff4;
-  --bg1: #d8dee9;
+  --bg1: #c3c8d1;
   --bg2: #eceff4;
   --bg3: #2e3440;
-  --bg4: #3b4252;
+  --bg4: #c3c8d1;
   --fg: var(--fg1);
   --fg0: #2e3440;
   --fg1: #2e3440;
@@ -125,7 +125,7 @@
   --bg1: #4c566a;
   --bg2: #3b4252;
   --bg3: #e5e9f0;
-  --bg4: #eceff4;
+  --bg4: #4c566a;
   --fg: var(--fg1);
   --fg0: #d8dee9;
   --fg1: #d8dee9;
