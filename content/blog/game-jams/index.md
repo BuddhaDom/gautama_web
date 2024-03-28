@@ -37,7 +37,7 @@ My role here was primarily back-end programming, and driving a narrative via wri
 
 Additionally, these encounters and the events that transpired therein needed some *bite*, which I believe I was able to provide. Seeing people reach the conclusions with the information I'd laid out with both the readings and the dialogue in place was a nice sight. 
 
-I loved the theme here. Abstract and charged. It let us have a lot of creative interpretations, so the ideation process was bountiful.
+I loved the theme here. Abstract and charged. It let us have a lot of creative interpretations, so the ideation process was bountiful. We were heavily inspired by *[Inscryption](https://store.steampowered.com/app/1092790/Inscryption/)* and *[Papers,  Please](https://store.steampowered.com/app/239030/Papers_Please/)*.
 
 ## [Finite Monkey Theorem](https://edneedsbread.itch.io/finite-monkey-theorem)
 
@@ -77,4 +77,4 @@ Level design was done via Audacity labels to denote adequacy, inadequacy, or rev
 
 *Possessed Possessions in a Bag* is an eerie, bite-sized stealth puzzle game with a red-light-green-light thematic. It follows a soul trapped in a bag, which resides inside a bag, which resides inside a- you get the idea. This soul is capable of possessing other objects in the bag. The player can use this to their advantage, both in movement and stealth. 
 
-Its artstyle was heavily inspired by the [FAITH](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/) series. I decided to take the role of Art direction for this project to be able to carry out said style into the end product, which ended up awarding us Best Graphics.
+Its artstyle was heavily inspired by the *[FAITH](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/)* series. I decided to take the role of Art direction for this project to be able to carry out said style into the end product, which ended up awarding us Best Graphics.
