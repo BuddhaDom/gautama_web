@@ -22,7 +22,7 @@ If you're interested in making something of the sorts, check out the documentati
 ## Afternoon
 
 <center>
-{{< video src="hs/afternoon" autoplay="true" controls="false" loop="true" >}}
+{{< video src="hs/afternoon" autoplay="false" controls="true" loop="true" >}}
 
 *Art by [waneella](https://twitter.com/waneella_).*
 </center>
@@ -30,7 +30,7 @@ If you're interested in making something of the sorts, check out the documentati
 ## Love
 
 <center>
-{{< video src="hs/Love" autoplay="true" controls="false" loop="true" >}}
+{{< video src="hs/Love" autoplay="false" controls="true" loop="true" >}}
 
 *Art by [Arrogant Studio](https://www.thegallery.nu/collections/arrogant)*
 </center>
@@ -38,7 +38,7 @@ If you're interested in making something of the sorts, check out the documentati
 ## Spotlight
 
 <center>
-{{< video src="hs/Spotlight" autoplay="true" controls="false" loop="true" >}}
+{{< video src="hs/Spotlight" autoplay="false" controls="true" loop="true" >}}
 
 *Art by [bawwny](https://www.reddit.com/user/bawwny/).*
 </center>
@@ -46,7 +46,7 @@ If you're interested in making something of the sorts, check out the documentati
 ## Level
 
 <center>
-{{< video src="hs/Level" autoplay="true" controls="false" loop="true" >}}
+{{< video src="hs/Level" autoplay="false" controls="true" loop="true" >}}
 
 *Art by [lvl374](https://twitter.com/lvl374).*
 </center>
@@ -54,7 +54,7 @@ If you're interested in making something of the sorts, check out the documentati
 ## Aries
 
 <center>
-{{< video src="hs/Aries" autoplay="true" controls="false" loop="true" >}}
+{{< video src="hs/Aries" autoplay="false" controls="true" loop="true" >}}
 
 *Art by [Peter Mohrbacher](https://www.angelarium.net/).*
 </center>
@@ -63,7 +63,7 @@ If you're interested in making something of the sorts, check out the documentati
 ## Oni
 
 <center>
-{{< video src="hs/Oni" autoplay="true" controls="false" loop="true" >}}
+{{< video src="hs/Oni" autoplay="false" controls="true" loop="true" >}}
 
 *Art by [Chunlo](https://www.artstation.com/chunlo) and [Aaron Horkey](https://www.instagram.com/aaronhorkey/).*
 </center>
