@@ -141,12 +141,14 @@
       "social-share",
       "social-share__heading",
       "social-share__item",
+      "technologies",
       "theme__toggle"
     ],
     "ids": [
       "afternoon",
       "aries",
       "awards",
+      "conference",
       "contributions",
       "education",
       "experience",

@@ -102,3 +102,8 @@ Headaches, And How to Cause Them
 Lions of Passion; Wolves of Resolve
 ```
 
+## Conference
+
+The game had a live demo at the **Intro to Games Research & Game Development Project Conference 2024**. 
+
+![Conference](/blog/paradox-clue/conference.jpg)

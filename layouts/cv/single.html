@@ -1,4 +1,14 @@
 {{ define "main" }}
+  {{ $csImage := resources.Get "images/csharp.png" }}
+  {{ $uniImage := resources.Get "images/unity.png" }}
+  {{ $godImage := resources.Get "images/godot.png" }}
+  <center>
+      <div class="technologies">
+        <span><img src="{{ $csImage.RelPermalink }}"/></span>
+        <span><img src="{{ $uniImage.RelPermalink }}"/></span>
+        <span><img src="{{ $godImage.RelPermalink }}"/></span>
+      </div>
+  </center>
   <article class="post">
     <h1>{{ .Title | markdownify }}</h1>
     <div class="post-content">

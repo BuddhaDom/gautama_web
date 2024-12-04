@@ -26,6 +26,21 @@
   },
   "work": [
     {
+      "name": "University of Gothenburg",
+      "location": "Gothenburg, Sweden",
+      "description": "CSE Faculty",
+      "position": "Amenuens",
+      "url": "https://www.gu.se/en",
+      "startDate": "2024-08-05",
+      "endDate": "2024-09-27",
+      "summary": "Teaching Assistant for Introduction to Games Research",
+      "highlights": [
+        "Game Master",
+        "Conference Chairman and Board",
+        "Conference Publicity"
+      ]
+    },
+    {
       "name": "SYPSOFT360",
       "location": "Lima, Peru",
       "description": "SAP and Monday partners",
@@ -101,7 +116,7 @@
     {
       "name": "Game Development",
       "keywords": ["Unity", "Godot", "Unreal Engine", "Game Design"],
-      "level": "Student, Enthusiast"
+      "level": "Student"
     },
     {
       "name": "Orator",
@@ -150,7 +165,7 @@
       "title": "Spooky Game Jam '23: Best Overall; Best Graphics",
       "date": "2023-10-17",
       "awarder": "IDX/GDT Game Jams",
-      "summary": "Part of the winning team in the 2023 IDX/GDT Spooky Game Jam —sponsored by Chalmers University of Technology and Gothemburg University— in the categories \"Graphics\" and \"Overall Winner\""
+      "summary": "Part of the winning team in the 2023 IDX/GDT Spooky Game Jam —sponsored by Chalmers University of Technology and University of Gothenburg in the categories \"Graphics\" and \"Overall Winner\""
     }
   ],
   "volunteer": [
