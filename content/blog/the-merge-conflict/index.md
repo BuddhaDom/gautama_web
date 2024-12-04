@@ -24,13 +24,15 @@ The entirety of the game, amassing to 1-2 hours of gameplay, takes place in a 4x
 
 The player is an Intern Developer in the company in charge of maintaining imperative reality. Including but not limited to laws of physics, spacetime, scale, perception, and so on. Unfortunately, someone else in the company has pushed a broken build onto production, which has caused large scale problems. Namely, time, scale, and perception are completely broken. Lucky for the company and for you, however, you happened to have a working build available on your system, which means you're the only person currently holding a tangible form. This means it is up to you to manually roll back changes in hopes to reestablish stable reality.
 
-# Game Design
+# The Game
 
 The game is meant to be an escape room. Our sense of interpretation of this notion was that the player was, indeed, trapped in an impossible space, and that the urgency of the matter compelled them to do what's necessary to return to normalcy. Since this was (at least in intention) a vertical slice, we decided to have three separate "branches" each with a particular theme, and have these be three challenges that they'd be required to complete in order to proceed in their search. This would also allow us to better separate work as a team. 
 
 ## Perspective
 
+<center>
 {{< video src="captures/perspective_walkthrough.mp4" autoplay="false" controls="true" loop="true" >}}
+</center>
 
 This is the branch I worked on. I wanted to play around with viewing angles to solve puzzles, so I made a lot of the level design dependent on viewing objects through specific angles or in specific ways in order to progress. 
 
