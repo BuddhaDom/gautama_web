@@ -18,6 +18,10 @@ We worked on this game as a group of three for the *Open Project in Interaction 
 
 The entirety of the game, amassing to 1-2 hours of gameplay, takes place in a 4x4m square. According to position data, players walked an average of 1km per hour of playtime approximately, all within that area. Much to our surprise, players rarely felt cramped. Even more surprising, they reported a really good sense of direction. Even if the virtual space was impossible, it was easy to navigate and find your way around.
 
+Developed with **Unity** version 2022.3.21f1.
+
+Based on [*Portal Rendering and Creation Interactions in Virtual Reality*](https://ieeexplore.ieee.org/document/9995211).
+
 {{< video src="captures/pagoda.mp4" autoplay="false" controls="true" loop="true" >}}
 
 # Setting

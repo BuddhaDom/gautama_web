@@ -24,8 +24,10 @@ I've been participating in Game Jams lately. If you do not know what that is: te
 |  Jam   | [Spooky Game Jam 2024](https://itch.io/jam/spooky-jam-2024) |
 | Theme  |            "The Disappearance of Camp Hillberry"            |
 |  Date  |                    June 2024 - 48 Hours                     |
+| Engine |                            Godot                            |
 |  Role  |             Narrative; Game Design; The printer             |
 | Result |   Best Game Design, Runner-up Graphics, Runner-up Overall   |
+
 
 <center>
 {{< youtube iTnE5KglWYo >}}
@@ -53,8 +55,10 @@ The game ended up being surprisingly diegetic by the end of the jam: everything 
 |  Jam   |                    [GBG Science Jam 2024](https://itch.io/jam/science-jam-24)                     |
 | Theme  |                                         "Design Thinking"                                         |
 |  Date  |                                       June 2024 - 48 Hours                                        |
+| Engine |                                               Godot                                               |
 |  Role  |                                         UI; Particle VFX                                          |
 | Result | Presented live for [International Science Festival 2024](https://www.vetenskapsfestivalen.se/en/) |
+
 
 <center>
 {{< video src="captures/thingi.mp4" autoplay="false" controls="true" loop="true" >}}
@@ -83,8 +87,10 @@ This jam in particular didn't have any nominations or otherwise; it was for the 
 |  Jam   | [March Game Jam 2024](https://itch.io/jam/march-game-jam-2024) |
 | Theme  |                      "Whispers of Change"                      |
 |  Date  |                     March 2024 - 48 Hours                      |
+| Engine |                             Unity                              |
 |  Role  |           Back-end programming; Writing; Game Design           |
 | Result |                  Best Overall; Best Graphics                   |
+
 
 <center>
 {{< video src="captures/heavy_hand.mp4" autoplay="false" controls="true" loop="true" >}}
@@ -110,8 +116,10 @@ I loved the theme here. Abstract and charged. It let us have a lot of creative i
 |  Jam   | [GGJ Gothenburg 24](https://globalgamejam.org/jam-sites/2024/ggj-gothenburg-24) |
 | Theme  |                                 "Make Me Laugh"                                 |
 |  Date  |                             January 2024 - 48 Hours                             |
+| Engine |                                      Godot                                      |
 |  Role  |                Writing; Game Design;  Voice Acting; Programming                 |
 | Result |                                    Runner-up                                    |
+
 
 <center>
 {{< video src="captures/monkey.mp4" autoplay="false" controls="true" loop="true" >}}
@@ -137,8 +145,10 @@ Level design was done via Audacity labels to denote adequacy, inadequacy, or rev
 |  Jam   | [Spooky Game Jam 23](https://itch.io/jam/ixd-gdt-spooky-game-jam) |
 | Theme  |                           "Possession"                            |
 |  Date  |                      October 2023 - 48 Hours                      |
+| Engine |                               Unity                               |
 |  Role  |                      Art direction; Graphics                      |
 | Result |                    Best Overall; Best Graphics                    |
+
 
 <center>
 {{< video src="captures/possessed.mp4" autoplay="false" controls="true" loop="true" >}}
