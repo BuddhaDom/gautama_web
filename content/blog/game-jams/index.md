@@ -17,6 +17,49 @@ I've been participating in Game Jams lately. If you do not know what that is: te
 
 # Jams
 
+## [Juxtamomentum](https://edneedsbread.itch.io/juxtamomentum)
+
+|        |                                                                                    |
+| :----: | :--------------------------------------------------------------------------------: |
+|  Jam   | [Global Game Jam 2025](https://globalgamejam.org/jam-sites/2025/ggj-gothenburg-25) |
+| Theme  |                                       Bubble                                       |
+|  Date  |                              February 2025 - 48 Hours                              |
+| Engine |                                       Godot                                        |
+|  Role  |                              Game Design, Enemy Logic                              |
+
+<center>
+{{< video src="captures/juxtamomentum.mp4" autoplay="false" controls="true" loop="true" >}}
+</center>
+
+<center>
+<iframe frameborder="0" src="https://itch.io/embed/3274556?border_width=5&amp;bg_color=4c566a&amp;fg_color=d8dee9&amp;link_color=b48ead&amp;border_color=292e39" width="560" height="175"><a href="https://edneedsbread.itch.io/juxtamomentum">Juxtamomentum by Ed, Black Bison - Beta, Yakima, Buddha</a></iframe>
+</center>
+
+Juxtamomentum is a game about remaining in your own bubble in time, because to fix the past, you must remain in the present.
+
+Control both the player and their time bubble, deflecting enemy projectiles away from your time bubble. If you stand outside of it for too long, time will adjust itself, and you'll lose contact with the past. 
+
+## [Lords of the Wood's Land](https://edneedsbread.itch.io/xmas-jam-2024)
+
+|        |                                                                   |
+| :----: | :---------------------------------------------------------------: |
+|  Jam   | [Christmas Game Jam 2024](https://itch.io/jam/xmas-game-jam-2024) |
+| Theme  |                         Woodland Folklore                         |
+|  Date  |                     December 2024 - 48 Hours                      |
+| Engine |                               Godot                               |
+|  Role  |               Narrative; Game Design; Voice acting                |
+| Result |                 Runner up in Fun and Game Design                  |
+
+![](https://img.itch.zone/aW1hZ2UvMzE2MTEyMy8xODkwNjgxNS5wbmc=/original/JSg6Xa.png)
+
+<center>
+<iframe frameborder="0" src="https://itch.io/embed/3161123?border_width=5&amp;bg_color=4c566a&amp;fg_color=d8dee9&amp;link_color=b48ead&amp;border_color=292e39" width="560" height="175"><a href="https://edneedsbread.itch.io/xmas-jam-2024">Lords of the Wood's Land by Ed, TrystVar, Buddha</a></iframe>
+</center>
+
+This is a recovery of an old .exe file for a forgotten MMORPG from 2004.
+
+We wanted to do something less serious this time around, especially for the Christmas time. We ended up with a charming satire game about a game in which NPCs were just simply not expecting new players anymore.
+
 ## [Requisition: Nostalgium](https://edneedsbread.itch.io/requisition-nostalgium)
 
 |        |                                                             |

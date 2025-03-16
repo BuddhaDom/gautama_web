@@ -6,7 +6,7 @@ socialShare: true
 toc: false
 cover:
     src: "cover.png"
-    caption: "Take of Two Dogs: The Grand Chase"
+    caption: "Tale of Two Dogs: The Grand Chase"
 date: "2024-11-05"
 ---
 

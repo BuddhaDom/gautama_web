@@ -17,10 +17,6 @@
       {
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/domenico-crovetto/"
-      },
-      {
-        "network": "Discord",
-        "url": "https://discord.com/users/178285607456473089"
       }
     ]
   },
@@ -154,10 +150,51 @@
       "roles": ["Developer", "Maintainer"],
       "highlights": [
         "I host my own services." ,
-        "HomelabOS implementation on Ubuntu.",
+        "YunoHost implementation on Debian.",
         "https://homelabos.com/"
       ],
       "keywords": ["Hugo", "Golang", "Linux", "Ansible", "Docker"]
+    },
+    {
+      "name": "Game Jams",
+      "type": "Hobby",
+      "startDate": "2023-08-01",
+      "description": "Games done in a weekend",
+      "url": "https://gautama.casa/home/blog/game-jams/",
+      "roles": ["Developer", "Writer", "Voice actor"],
+      "highlights": [
+        "I've participated in a good amount of game jams since starting my master's studies.",
+        "Great way to spend a weekend."
+      ],
+      "keywords": ["Godot", "Unity"]
+    },
+    {
+      "name": "The Merge Conflict",
+      "type": "Coursework",
+      "startDate": "2024-03-01",
+      "endDate": "2024-05-01",
+      "description": "Escape room game",
+      "url": "https://gautama.casa/home/blog/the-merge-conflict/",
+      "roles": ["Developer", "Writer", "Voice actor"],
+      "highlights": [
+        "Non-euclidean VR escape room game using stationary portals and redirected walking.",
+        "Developed for Open Project in Interaction Design at the University of Gothenburg."
+      ],
+      "keywords": ["Unity", "VR", "Non-euclidean"]
+    },
+    {
+      "name": "pr//WITNESS",
+      "type": "Coursework",
+      "startDate": "2024-11-01",
+      "endDate": "2025-01-01",
+      "description": "Linear storytelling game",
+      "url": "https://gautama.casa/home/blog/the-merge-conflict/",
+      "roles": ["Developer", "Writer", "Voice actor"],
+      "highlights": [
+        "Linear story game using datamoshing artifacting as a storytelling tool.",
+        "Developed for Interactive and Linear Storytelling with digital media course at the University of Gothenburg."
+      ],
+      "keywords": ["Unreal Engine 5", "Storytelling", "Motion capture"]
     }
   ],
   "awards": [
