@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "http://localhost/"
 title = "Hey. I'm Buddha."
 #paginate = 10
 enableRobotsTXT = true
@@ -28,6 +28,8 @@ enableRobotsTXT = true
   author = "Buddha"
   subtitle = "Developer"
   description = "Hey. I'm Buddha."
+
+  rootAddress = "/"
 
   [params.logo]
     text = "gautama"
@@ -117,8 +119,3 @@ enableRobotsTXT = true
     weight = 10
     [languages.en.params.jsonResume]
       present = "present"
-  [languages.de]
-    languageName = "Deutsch"
-    weight = 20
-    [languages.de.params.jsonResume]
-      present = "heute"

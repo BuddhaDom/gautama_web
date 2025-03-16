@@ -1,1 +1,7 @@
 baseURL = "https://gautama.casa/home/"
+
+# baseurl = "/home/"
+# canonifyurls = true
+
+[params]
+    rootAddress = "/home/"

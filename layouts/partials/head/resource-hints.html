@@ -1,11 +1,13 @@
 <!-- Preload commonly used font variations -->
 
 <!-- Roboto Slab -->
+
+{{ $baseAddress := .Site.Params.rootAddress }}
 <link
   rel="preload"
   as="font"
   type="font/woff2"
-  href="/fonts/roboto-slab-latin-400.woff2"
+  href="{{ (path.Join $baseAddress "/fonts/roboto-slab-latin-400.woff2") }}"
   crossorigin="anonymous"
 />
 <!-- TODO Use prefetch when more widely supported -->
@@ -13,7 +15,7 @@
   rel="preload"
   as="font"
   type="font/woff2"
-  href="/fonts/roboto-slab-latin-700.woff2"
+  href="{{ (path.Join $baseAddress "/fonts/roboto-slab-latin-700.woff2") }}"
   crossorigin="anonymous"
 />
 
@@ -22,14 +24,14 @@
   rel="preload"
   as="font"
   type="font/woff2"
-  href="/fonts/fira-code-latin-300.woff2"
+  href="{{ (path.Join $baseAddress "/fonts/fira-code-latin-300.woff2") }}"
   crossorigin="anonymous"
 />
 <link
   rel="preload"
   as="font"
   type="font/woff2"
-  href="/fonts/fira-code-latin-400.woff2"
+  href="{{ (path.Join $baseAddress "/fonts/fira-code-latin-400.woff2") }}"
   crossorigin="anonymous"
 />
 <!-- TODO Use prefetch when more widely supported -->
@@ -37,6 +39,6 @@
   rel="preload"
   as="font"
   type="font/woff2"
-  href="/fonts/fira-code-latin-700.woff2"
+  href="{{ (path.Join $baseAddress "/fonts/fira-code-latin-700.woff2") }}"
   crossorigin="anonymous"
 />

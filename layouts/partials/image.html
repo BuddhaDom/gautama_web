@@ -3,6 +3,7 @@
   <figure>
 {{ end }}
 
+{{ $baseAddress := .page.Site.Params.rootAddress }}
 {{ if (strings.HasPrefix .src "http") }}
   <!-- External image -->
   <img
@@ -15,7 +16,7 @@
   <!-- Image from static/ -->
   {{ $imageConfig := imageConfig (path.Join "static" .src) }}
   <img
-    src="{{ .src }}"
+    src="{{ (path.Join $baseAddress .src) }}"
     alt="{{ .alt }}"
     {{ with .caption }}title="{{ . | markdownify | plainify }}"{{ end }}
     {{ if .lazy }}loading="lazy"{{ end }}

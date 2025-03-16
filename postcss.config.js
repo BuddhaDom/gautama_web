@@ -15,7 +15,7 @@ module.exports = () => ({
         url: (asset) => {
           // Construct font path relative to <publish-dir>/css/bundle.css
           // Fonts must be mounted into static/ dir
-          return path.posix.join("/", "fonts", path.basename(asset.pathname));
+          return path.posix.join((process.env.HUGO_ENVIRONMENT === "production" ? "/home" : "/"), "fonts", path.basename(asset.pathname));
         },
       },
     ]),
