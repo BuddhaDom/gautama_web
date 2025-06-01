@@ -11,11 +11,9 @@ cover:
 
 # "Eyes on what's important."
 
-[Github](https://github.com/BuddhaDom/zsh-buddha)
+A simple, readability-focused ZSH theme for use with [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh). [Github](https://github.com/BuddhaDom/zsh-buddha)
 
 <!--more-->
-
-A simple, readability-focused ZSH theme for use with [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh).
 
 ## Features 
 

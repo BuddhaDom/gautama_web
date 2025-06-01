@@ -6,21 +6,20 @@ socialShare: true
 toc: false
 cover:
     src: "cover.png"
-    caption: "Tale of Two Dogs: The Grand Chase"
+    caption: "Detective Jackal's office."
 date: "2024-11-05"
 ---
 
 # "Whodunit? Nah, *howdunit*."
 
+[*Paradox Clue*](https://edneedsbread.itch.io/paradox-clue) is a game developed for the 2024 [Game Development Project course at University of Gothemburg](https://www.gu.se/en/study-gothenburg/game-design-technology-masters-programme-n2gdt). The theme for this project was Public Domain, and for such, we had to choose a piece of publicly owned media to make a game out of. We chose two: *The Starry Night*, by Vincent Van Gogh, and *Strange Case of Dr Jekyll and Mr Hyde* by Robert Louis Stevenson. 
+
+Developed with **Godot** version 4.3.
+
 <!--more-->
-
-[*Paradox Clue*](https://edneedsbread.itch.io/paradox-clue) is a game developed for the 2024 [Game Development Project course at University of Gothemburg](https://www.gu.se/en/study-gothenburg/game-design-technology-masters-programme-n2gdt). 
-
-The theme for this project was Public Domain, and for such, we had to choose a piece of publicly owned media to make a game out of. We chose two: *The Starry Night*, by Vincent Van Gogh, and *Strange Case of Dr Jekyll and Mr Hyde* by Robert Louis Stevenson.
 
 The game consists of two levels that are meant to play a back-and-forth of creating a hypothesis, and acting out how a scenario might have happened. This constantly cause paradoxes to occur where you might have reached a place before you even opened the door to that location, which was part of the almost deliriant spirit that we strived to achieve.
 
-Developed with **Godot** version 4.3.
 
 <center>
 <iframe frameborder="0" src="https://itch.io/embed/3056327?border_width=5&amp;bg_color=4c566a&amp;fg_color=d8dee9&amp;link_color=b48ead&amp;border_color=292e39" width="560" height="175"><a href="https://edneedsbread.itch.io/paradox-clue">Paradox Clue by Ed, Rykk1n, Buddha, Martijn, DevLope, surui003</a></iframe>

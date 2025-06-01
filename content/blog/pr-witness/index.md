@@ -6,19 +6,17 @@ socialShare: true
 toc: false
 cover:
     src: "cover.png"
-    caption: "Are you well, Mr. Romer?"
+    caption: "Dr. Armaan in his appointment with the protagonist, Dwade Romer."
 date: "2025-01-21"
 ---
 
 # "Please. Take these pills."
 
-<!--more-->
-
-[pr//WITNESS](https://marwo.itch.io/prwitness) is a game developed for the 2024 [Interactive and Linear Storytelling with digital media course at the University of Gothenburg](https://www.gu.se/studera/hitta-utbildning/interaktivt-och-linjart-berattande-med-digital-media-dit998). 
-
-It is a 10-15 minute linear story game in which you play the role of Dwade Romer, who is experiencing odd feelings after having taken an experimental medication. 
+[pr//WITNESS](https://marwo.itch.io/prwitness) is a game developed for the 2024 [Interactive and Linear Storytelling with digital media course at the University of Gothenburg](https://www.gu.se/studera/hitta-utbildning/interaktivt-och-linjart-berattande-med-digital-media-dit998). It is a 10-15 minute linear story game in which you play the role of Dwade Romer, who is experiencing odd feelings after having taken an experimental medication. 
 
 Made with **Unreal Engine 5**.
+
+<!--more-->
 
 <center>
 <iframe frameborder="0" src="https://itch.io/embed/3249252?border_width=5&amp;bg_color=4c566a&amp;fg_color=d8dee9&amp;link_color=b48ead&amp;border_color=292e39" width="560" height="175"><a href="https://marwo.itch.io/prwitness">pr//WITNESS by Martijn, Buddha, Echindas</a></iframe>

@@ -11,9 +11,9 @@ cover:
 
 # "My testament to UI."
 
-<!--more-->
-
 I make custom Android Homescreen themes for my own, personal use thanks to [KLWP](https://docs.kustom.rocks/#klwp). I've been working on them since about 2016 and I'd like to believe it has become my best expression of both form-from-function, and tasteful layouts. 
+
+<!--more-->
 
 If you're interested in making something of the sorts, check out the documentation over at [Kustom](https://docs.kustom.rocks/). If you're interested in having something like this made for you, I'd also be interested to hear your proposal. 
 

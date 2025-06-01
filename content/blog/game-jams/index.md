@@ -11,9 +11,9 @@ cover:
 
 # "Oh, these are fun."
 
-<!--more-->
-
 I've been participating in Game Jams lately. If you do not know what that is: teams get together for a weekend or so to compete making a game around a theme. Sort of like a hackathon. Here are a few of the projects I've participated in.
+
+<!--more-->
 
 # Jams
 

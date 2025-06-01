@@ -6,19 +6,19 @@ socialShare: true
 toc: false
 cover:
     src: "cover.png"
-    caption: "A non-Euclidean virtual reality escape room game."
+    caption: "Hub area of the game."
 date: "2024-09-21"
 ---
 
 # "Rollback spacetime."
 
-<!--more-->
-
 We worked on this game as a group of three for the *Open Project in Interaction Design* course at Gothenburg University over the course of 8 weeks. For this project, our design challenge was to avoid using virtual locomotion systems, and to bend space as much as possible. For such, we resorted to heavy use of stationary portals as a means of attaining [redirected walking](https://en.wikipedia.org/wiki/Redirected_walking). 
 
-The entirety of the game, amassing to 1-2 hours of gameplay, takes place in a 4x4m square. According to position data, players walked an average of 1km per hour of playtime approximately, all within that area. Much to our surprise, players rarely felt cramped. Even more surprising, they reported a really good sense of direction. Even if the virtual space was impossible, it was easy to navigate and find your way around.
-
 Developed with **Unity** version 2022.3.21f1.
+
+<!--more-->
+
+The entirety of the game, amassing to 1-2 hours of gameplay, takes place in a 4x4m square. According to position data, players walked an average of 1km per hour of playtime approximately, all within that area. Much to our surprise, players rarely felt cramped. Even more surprising, they reported a really good sense of direction. Even if the virtual space was impossible, it was easy to navigate and find your way around.
 
 Based on [*Portal Rendering and Creation Interactions in Virtual Reality*](https://ieeexplore.ieee.org/document/9995211).
 

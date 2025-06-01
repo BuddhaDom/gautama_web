@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Domenico Crovetto",
-    "label": "Developer",
+    "label": "Software and Videogame Developer",
     "image": ".",
     "email": "buddha@gautama.casa",
-    "summary": "Software developer by trade and aptitude. I have a special interest for Video-game development, which I'm currently pursuing academically and professionally. Quick to pick up new technologies. Excited for any chance to do so too.",
+    "summary": "Passionate about captivating initiatives, narratives, and concepts. Quick to pick up new technologies; excited for any chance to do so. Get in touch, I'd love to chat.",
     "location": {
       "city": "Gothenburg"
     },

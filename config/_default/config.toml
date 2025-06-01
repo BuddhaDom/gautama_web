@@ -1,5 +1,5 @@
 baseURL = "http://localhost/"
-title = "Hey. I'm Buddha."
+title = "Hey-hey, I'm Domenico"
 #paginate = 10
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header
@@ -26,8 +26,8 @@ enableRobotsTXT = true
   # soft medium hard, defaults to medium
   themeContrast = "hard"
   author = "Buddha"
-  subtitle = "Developer"
-  description = "Hey. I'm Buddha."
+  subtitle = "Portfolio"
+  description = "Hey-hey, I'm Domenico"
 
   rootAddress = "/"
 
